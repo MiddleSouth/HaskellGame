@@ -23,6 +23,7 @@ dependencies:
 - base >= 4.7 && < 5
 - gloss
 - gloss-juicy
+- directory
 
 ghc-options:
 - -Wall
